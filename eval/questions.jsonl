@@ -1,0 +1,36 @@
+{"q": "What is the punishment for murder?", "gold": [["BNS", "103"], ["IPC", "302"]]}
+{"q": "What is the punishment for attempt to murder?", "gold": [["BNS", "109"], ["IPC", "307"]]}
+{"q": "What does the law say about dowry death?", "gold": [["BNS", "80"], ["IPC", "304B"]]}
+{"q": "Is cruelty by a husband towards his wife an offence?", "gold": [["BNS", "85"], ["IPC", "498A"]]}
+{"q": "What is the punishment for abetment of suicide?", "gold": [["BNS", "108"], ["IPC", "306"]]}
+{"q": "Define theft", "gold": [["BNS", "303"], ["IPC", "378"]]}
+{"q": "What is cheating and how is it punished?", "gold": [["BNS", "318"], ["IPC", "415"], ["IPC", "420"]]}
+{"q": "What is defamation?", "gold": [["BNS", "356"], ["IPC", "499"]]}
+{"q": "What is criminal intimidation?", "gold": [["BNS", "351"], ["IPC", "503"]]}
+{"q": "What is IPC 420 under the new law?", "gold": [["BNS", "318"]]}
+{"q": "What replaced section 302 of the IPC?", "gold": [["BNS", "103"]]}
+{"q": "How do I register an FIR for a cognizable offence?", "gold": [["BNSS", "173"], ["CrPC", "154"]]}
+{"q": "Can I get anticipatory bail if I fear arrest?", "gold": [["BNSS", "482"], ["CrPC", "438"]]}
+{"q": "Can a wife claim maintenance from her husband?", "gold": [["BNSS", "144"], ["CrPC", "125"]]}
+{"q": "When can police arrest someone without a warrant?", "gold": [["BNSS", "35"], ["CrPC", "41"]]}
+{"q": "Are electronic records admissible as evidence?", "gold": [["BSA", "63"], ["IEA", "65B"]]}
+{"q": "Is a confession made to a police officer admissible?", "gold": [["BSA", "23"], ["IEA", "25"]]}
+{"q": "What is the right to equality before law?", "gold": [["Constitution", "14"]]}
+{"q": "Protection of life and personal liberty", "gold": [["Constitution", "21"]]}
+{"q": "Is untouchability abolished?", "gold": [["Constitution", "17"]]}
+{"q": "Right to move the Supreme Court for enforcement of fundamental rights", "gold": [["Constitution", "32"]]}
+{"q": "What is the right to freedom of speech and expression?", "gold": [["Constitution", "19"]]}
+{"q": "What agreements are contracts?", "gold": [["ICA", "10"]]}
+{"q": "Is an agreement without consideration void?", "gold": [["ICA", "25"]]}
+{"q": "What happens when a cheque bounces for insufficient funds?", "gold": [["NI Act", "138"]]}
+{"q": "What are the conditions for a valid Hindu marriage?", "gold": [["HMA", "5"]]}
+{"q": "On what grounds can a Hindu marriage be dissolved by divorce?", "gold": [["HMA", "13"]]}
+{"q": "Is divorce by mutual consent allowed for Hindus?", "gold": [["HMA", "13B"]]}
+{"q": "What is the time limit for a public information officer to reply to an RTI request?", "gold": [["RTI", "7"]]}
+{"q": "What is the punishment for identity theft online?", "gold": [["IT Act", "66C"]]}
+{"q": "What is the punishment for computer related offences like hacking?", "gold": [["IT Act", "66"]]}
+{"q": "What is the punishment for penetrative sexual assault on a child?", "gold": [["POCSO", "4"]]}
+{"q": "What is the penalty for giving or taking dowry?", "gold": [["Dowry", "3"]]}
+{"q": "Who can file a complaint for domestic violence relief to a magistrate?", "gold": [["DV Act", "12"]]}
+{"q": "What is the effect of a suit filed after the limitation period?", "gold": [["Limitation", "3"]]}
+{"q": "What does res judicata mean in civil suits?", "gold": [["CPC", "11"]]}
